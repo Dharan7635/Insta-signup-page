@@ -146,10 +146,7 @@ body{
 .footer li:hover{
     cursor: pointer;
 }
-/* .copydiv{
-    display: flex;
-    justify-content: center;
-} */
+
 .copyrights{
     display: flex;
     list-style: none;
